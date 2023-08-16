@@ -1,52 +1,51 @@
 - Published Writings 
   - U.S. Editions of Leaves of Grass [whitman-leaves_of_grass](https://github.com/whitmanarchive/whitman-leaves_of_grass)
-  - **Other Books** {new page} `other_books`
-  - **Periodicals** {bolded because main category changed, no sub pages for now} `periodicals`
-  - **Translations** {bolded because main category changed}  `translations`
-  - **Index of Works** {new page} `works`
-- **Literary Manuscripts** {new} `literary-manuscripts`
-  - Manuscript Images and Descriptions {not a separate page, just a subhead}
-    - **Integrated Catalog of Walt Whitman's Literary Manuscripts** `integrated`
-    - **Catalogs of Manuscripts at Individual Repositories** {url change} `manuscript-catalogs`
-  - **Loose Manuscripts** {bolded because main category changed} `loose-manuscripts`
-  - **Notebooks** {bolded because main category changed} `notebooks`
-  - **Marginalia and Annotations** {bolded because main category changed} `marginalia-and-annotations`
-- **Whitman's Life** {new page} `whitmans_life`
-  - **Biography** {bolded because main category changed} `biography`
-  - **Chronology** {bolded because main category changed} `chronology`
-  - With Walt Whitman in Camden, by Horace Traubel {link to page in disciples}
-  - **Interviews and Reminiscences**  Interviews and Reminiscences {bolded because main category changed} `interviews`
-- **Letters** (new page) `letters`
-  - **Correspondence** (to and from Whitman) {bolded because main category changed} `correspondence`
-  - **Scribal Documents** {bolded because main category changed} `scribal`
-  - **Letters Written for Soldiers** {bolded because main category changed} `letters-for-soldiers`
-- **Disciples** {now a top level page} `disciples`
-  - **Richard Maurice** Bucke `bucke`
-  - **John Burroughs** `burroughs`
-  - **Anne Gilchrist** `gilchrist`
-  - **William Douglas O'Connor** `oconnor`
-  - **Horace Traubel** `traubel`
-- Commentary `commentary`
-  - Bibliography `bibliography`
-  - **Reviews (1855–1892)** [formerly "Contemporary Reviews"] `reviews`
-  - Selected Criticism `selected_criticism` 
-- **Pictures, Sound, and Video** `pictures_sound_video`
-  - **Gallery of Images** {bolded because main category changed} `gallery-of-images`
-  - **Audio Recordings Audio Recordings** {bolded because main category changed} `audio`
-  - **Whitman in Film** {page to be created} `film`
-- About the Archive `about`
-- Project and Staff Information {not a separate page, just a subhead}
-  - Overview `overview`
-  - History of the Project `history`
-  - News & Updates `news-and-updates`
-  - Articles and Interviews about the Archive `articles-and-interviews`
-  - Project Staff `staff-and-contributors`
-  - Earlier Versions of the Archive `earlier-versions-of-the-archive`
-  - **Archive Changelog** (just make a placeholder page) `changelog`
-  - Frequently Asked Questions `faq`
-- Methodology and Standards {not a separate page, just a subhead}
-  - Editorial Policy Statement and Procedures `editorial-policies`
-  - Conditions of Use `conditions-of-use`
-  - Technical Summary `technical-summary`
-  - Encoding Guidelines (don't link yet)
-  - Downloads (new page, link to github stuff) `downloads`
+  - Other Books [whitman-other_books](https://github.com/whitmanarchive/whitman-other_books)
+  - Periodicals []()
+  - Translations []()
+  - Index of Works []()
+- Literary Manuscript
+  - Manuscript Images and Descriptions (subhead)
+    - Integrated Catalog of Walt Whitman's Literary Manuscripts []()
+    - Catalogs of Manuscripts at Individual Repositories []()
+  - Loose Manuscripts []()
+  - Notebooks []()
+  - Marginalia and Annotations []()
+- Whitman's Life
+  - Biography []()
+  - Chronology []()
+  - Interviews and Reminiscences []()
+- Letters
+  - Correspondence []()
+  - Scribal Documents []()
+  - Letters Written for Soldiers []()
+- Disciples
+  - Richard Maurice []()
+  - John Burroughs []()
+  - Anne Gilchrist []()
+  - William Douglas []()
+  - Horace Traubel []()
+- Commentary
+  - Bibliography []()
+  - Reviews (1855–1892) []()
+  - Selected Criticism  []()
+- Pictures, Sound, and Video
+  - Gallery of Images []()
+  - Audio Recordings Audio Recordings []()
+  - Whitman in Film []()
+- About the Archive
+- Project and Staff Information (subhead)
+  - Overview []()
+  - History of the Project []()
+  - News & Updates []()
+  - Articles and Interviews about the Archive []()
+  - Project Staff []()
+  - Earlier Versions of the Archive []()
+  - Archive Changelog []()
+  - Frequently Asked Questions []()
+- Methodology and Standards (subhead)
+  - Editorial Policy Statement and Procedures []()
+  - Conditions of Use []()
+  - Technical Summary []()
+  - Encoding Guidelines []()
+  - Downloads (new page, link to github stuff) []()
