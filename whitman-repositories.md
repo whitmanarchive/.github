@@ -4,41 +4,42 @@
     - [whitman-LG_1855_variorum]()
   - Other Books [whitman-other_books](https://github.com/whitmanarchive/whitman-other_books)
   - Periodicals
-    - [whitman-periodical_poems](../../whitman-periodical_poems)
-    - [whitman-periodicals_fiction](whitman-periodicals_fiction)
-    - [whitman-periodical_journalism](whitman-periodical_journalism)
-  - Translations [whitman-translations](whitman-translations)
-  - Index of Works [whitman-scripts]()
+    - [whitman-periodical_poems](https://github.com/whitmanarchive/whitman-periodical_poems)
+    - [whitman-periodicals_fiction](https://github.com/whitmanarchive/whitman-periodicals_fiction)
+    - [whitman-periodical_journalism](https://github.com/whitmanarchive/whitman-periodical_journalism)
+  - Translations [whitman-translations](https://github.com/whitmanarchive/whitman-translations)
+  - Index of Works [whitman-scripts](https://github.com/whitmanarchive/whitman-scripts)
 - Literary Manuscript
   - Manuscript Images and Descriptions (subhead)
-    - Integrated Catalog of Walt Whitman's Literary Manuscripts [whitman-finding_aids]()
-    - Catalogs of Manuscripts at Individual Repositories [whitman-finding_aids]() (same as above, different view of data)
-  - Loose Manuscripts [whitman-manuscripts]()
-  - Notebooks [whitman-notebooks]()
-  - Marginalia and Annotations [whitman-marginalia]()
+    - Integrated Catalog of Walt Whitman's Literary Manuscripts [whitman-finding_aids](https://github.com/whitmanarchive/whitman-finding_aids)
+    - Catalogs of Manuscripts at Individual Repositories [whitman-finding_aids](https://github.com/whitmanarchive/whitman-finding_aids) (same as above, different view of data)
+  - Loose Manuscripts [whitman-manuscripts](https://github.com/whitmanarchive/whitman-manuscripts)
+  - Notebooks [whitman-notebooks](https://github.com/whitmanarchive/whitman-notebooks)
+  - Marginalia and Annotations [whitman-marginalia](https://github.com/whitmanarchive/whitman-marginalia)
 - Whitman's Life
   - Biography
   - Chronology
-  - Interviews and Reminiscences [whitman-interviews]()
+  - Interviews and Reminiscences [whitman-interviews](https://github.com/whitmanarchive/whitman-interviews)
 - Letters
-  - Correspondence [whitman-correspondence]()
-  - Scribal Documents [whitman-scribal]()
-  - Letters Written for Soldiers [whitman-letters_written_for_soldiers]()
-- Disciples [whitman-disciples]()
+  - Correspondence [whitman-correspondence](https://github.com/whitmanarchive/whitman-correspondence)
+  - Scribal Documents [whitman-scribal](https://github.com/whitmanarchive/whitman-scribal)
+  - Letters Written for Soldiers [whitman-letters_written_for_soldiers](https://github.com/whitmanarchive/whitman-letters_written_for_soldiers)
+- Disciples [whitman-disciples](https://github.com/whitmanarchive/whitman-disciples)
   - Richard Maurice
   - John Burroughs
   - Anne Gilchrist
   - William Douglas
-  - Horace Traubel [whitman-traubel]()
+  - Horace Traubel [whitman-traubel](https://github.com/whitmanarchive/whitman-traubel)
 - Commentary
-  - Bibliography [whitman-bibliography-edit ]() (not the data, the rails app to edit data)
-  - Reviews (1855–1892) [whitman-reviews]()
-  - Selected Criticism  [whitman-criticism]()
+  - Bibliography [whitman-bibliography-edit](https://github.com/whitmanarchive/whitman-bibliography-edit) (not the data, the rails app to edit data)
+  - Reviews (1855–1892) [whitman-reviews](https://github.com/whitmanarchive/whitman-reviews)
+  - Selected Criticism  [whitman-criticism](https://github.com/whitmanarchive/whitman-criticism)
 - Pictures, Sound, and Video
-  - Gallery of Images [whitman-multimedia]()
+  - Gallery of Images [whitman-multimedia](https://github.com/whitmanarchive/)
+  - Gallery of Images [whitman-multimedia](https://github.com/whitmanarchive/)
   - Audio Recordings Audio Recordings
   - Whitman in Film
-- About the Archive [whitman-about]()
+- About the Archive [whitman-about](https://github.com/whitmanarchive/whitman-about)
 - Project and Staff Information (subhead)
   - Overview
   - History of the Project
