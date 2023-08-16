@@ -1,51 +1,56 @@
 - Published Writings 
-  - U.S. Editions of Leaves of Grass [whitman-leaves_of_grass](https://github.com/whitmanarchive/whitman-leaves_of_grass)
+  - U.S. Editions of Leaves of Grass
+    - [whitman-leaves_of_grass](https://github.com/whitmanarchive/whitman-leaves_of_grass)
+    - [whitman-LG_1855_variorum]()
   - Other Books [whitman-other_books](https://github.com/whitmanarchive/whitman-other_books)
-  - Periodicals []()
-  - Translations []()
-  - Index of Works []()
+  - Periodicals
+    - [whitman-periodical_poems]()
+    - [whitman-periodicals_fiction]()
+    - [whitman-periodical_journalism]()
+  - Translations [whitman-translations]()
+  - Index of Works [whitman-scripts]()
 - Literary Manuscript
   - Manuscript Images and Descriptions (subhead)
-    - Integrated Catalog of Walt Whitman's Literary Manuscripts []()
-    - Catalogs of Manuscripts at Individual Repositories []()
-  - Loose Manuscripts []()
-  - Notebooks []()
-  - Marginalia and Annotations []()
+    - Integrated Catalog of Walt Whitman's Literary Manuscripts [whitman-finding_aids]()
+    - Catalogs of Manuscripts at Individual Repositories [whitman-finding_aids]() (same as above, different view of data)
+  - Loose Manuscripts [whitman-manuscripts]()
+  - Notebooks [whitman-notebooks]()
+  - Marginalia and Annotations [whitman-marginalia]()
 - Whitman's Life
-  - Biography []()
-  - Chronology []()
-  - Interviews and Reminiscences []()
+  - Biography
+  - Chronology
+  - Interviews and Reminiscences [whitman-interviews]()
 - Letters
-  - Correspondence []()
-  - Scribal Documents []()
-  - Letters Written for Soldiers []()
-- Disciples
-  - Richard Maurice []()
-  - John Burroughs []()
-  - Anne Gilchrist []()
-  - William Douglas []()
-  - Horace Traubel []()
+  - Correspondence [whitman-correspondence]()
+  - Scribal Documents [whitman-scribal]()
+  - Letters Written for Soldiers [whitman-letters_written_for_soldiers]()
+- Disciples [whitman-disciples]()
+  - Richard Maurice
+  - John Burroughs
+  - Anne Gilchrist
+  - William Douglas
+  - Horace Traubel [whitman-traubel]()
 - Commentary
-  - Bibliography []()
-  - Reviews (1855–1892) []()
-  - Selected Criticism  []()
+  - Bibliography [whitman-bibliography-edit ]() (not the data, the rails app to edit data)
+  - Reviews (1855–1892) [whitman-reviews]()
+  - Selected Criticism  [whitman-criticism]()
 - Pictures, Sound, and Video
-  - Gallery of Images []()
-  - Audio Recordings Audio Recordings []()
-  - Whitman in Film []()
-- About the Archive
+  - Gallery of Images [whitman-multimedia]()
+  - Audio Recordings Audio Recordings
+  - Whitman in Film
+- About the Archive [whitman-about]()
 - Project and Staff Information (subhead)
-  - Overview []()
-  - History of the Project []()
-  - News & Updates []()
-  - Articles and Interviews about the Archive []()
-  - Project Staff []()
-  - Earlier Versions of the Archive []()
-  - Archive Changelog []()
-  - Frequently Asked Questions []()
+  - Overview
+  - History of the Project
+  - News & Updates
+  - Articles and Interviews about the Archive
+  - Project Staff
+  - Earlier Versions of the Archive
+  - Archive Changelog
+  - Frequently Asked Questions
 - Methodology and Standards (subhead)
-  - Editorial Policy Statement and Procedures []()
-  - Conditions of Use []()
-  - Technical Summary []()
-  - Encoding Guidelines []()
-  - Downloads (new page, link to github stuff) []()
+  - Editorial Policy Statement and Procedures 
+  - Conditions of Use 
+  - Technical Summary
+  - Encoding Guidelines
+  - Downloads (new page, link to github stuff)
