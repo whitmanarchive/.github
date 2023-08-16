@@ -40,18 +40,18 @@
   - Audio Recordings Audio Recordings
   - Whitman in Film
 - About the Archive [whitman-about](https://github.com/whitmanarchive/whitman-about)
-- Project and Staff Information (subhead)
-  - Overview
-  - History of the Project
-  - News & Updates
-  - Articles and Interviews about the Archive
-  - Project Staff
-  - Earlier Versions of the Archive
-  - Archive Changelog
-  - Frequently Asked Questions
-- Methodology and Standards (subhead)
-  - Editorial Policy Statement and Procedures 
-  - Conditions of Use 
-  - Technical Summary
-  - Encoding Guidelines
-  - Downloads (new page, link to github stuff)
+  - Project and Staff Information (subhead)
+    - Overview
+    - History of the Project
+    - News & Updates
+    - Articles and Interviews about the Archive
+    - Project Staff
+    - Earlier Versions of the Archive
+    - Archive Changelog
+    - Frequently Asked Questions
+  - Methodology and Standards (subhead)
+    - Editorial Policy Statement and Procedures 
+    - Conditions of Use 
+    - Technical Summary
+    - Encoding Guidelines
+    - Downloads (new page, link to github stuff)
