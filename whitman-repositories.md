@@ -4,10 +4,10 @@
     - [whitman-LG_1855_variorum]()
   - Other Books [whitman-other_books](https://github.com/whitmanarchive/whitman-other_books)
   - Periodicals
-    - [whitman-periodical_poems]()
-    - [whitman-periodicals_fiction]()
-    - [whitman-periodical_journalism]()
-  - Translations [whitman-translations]()
+    - [whitman-periodical_poems](../whitman-periodical_poems)
+    - [whitman-periodicals_fiction](whitman-periodicals_fiction)
+    - [whitman-periodical_journalism](whitman-periodical_journalism)
+  - Translations [whitman-translations](whitman-translations)
   - Index of Works [whitman-scripts]()
 - Literary Manuscript
   - Manuscript Images and Descriptions (subhead)
